@@ -1,9 +1,10 @@
 ## Hi there, I'm Viswanathan a.k.a LiteShake 👋
 
-- 🔭 I'm currently working on ML and Game Dev
-- 🌱 I'm currently learning almost everything 
-- 👯 I’m looking to collaborate on contests, hackathons, ML and Game Dev
-- 📫 Reach me at strawberryshakelite@gmail.com
+- 🔭 I'm currently working on Deep learning and stuff.
+- 🌱 I'm currently learning almost everything.
+- 👯 I’m looking to collaborate on contests, hackathons and Research on Deep Learning.
+- ✉️ Reach me at viswanv.2003@gmail.com regarding Professional and offical matters.
+- 🎞 Reach me at strawberryshakelite@gmail.com regarding YouTube / Casual / Creative things.
 
 <!--
 **LiteShake/LiteShake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

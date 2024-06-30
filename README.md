@@ -1,6 +1,6 @@
-# Hi there, I'm Viswanathan a.k.a LiteShake
+## Hi there, I'm Viswanathan a.k.a LiteShake
 
-- 🔭 I'm currently working on Deep learning and stuff.
+- 🧠 I'm currently working on Deep learning and stuff.
 - 🌱 I'm currently learning almost everything.
 - 👯 I’m looking to collaborate on contests, hackathons and Research on Deep Learning.
 - ✉️ Reach me at viswanv.2003@gmail.com regarding Professional and offical matters.
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <h3>Creative tools I use:</h3>
 
-![](https://skillicons.dev/icons?i=ableton,aftereffects,photoshop)
+![](https://skillicons.dev/icons?i=ableton,aftereffects,photoshop,ai)
 
 <h3>I have also worked with:</h3>
 

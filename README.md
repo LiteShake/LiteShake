@@ -1,11 +1,8 @@
 # Hi there, I'm Viswanathan a.k.a LiteShake
+I like to make <span style="color:rgb(74, 204, 255)">**Creative**</span> AI that can create Art, Music and much more...
 
-I like to work on <span style="color:rgb(74, 204, 255)">**Creative**</span> AI solutions that can create Art, Music and much more...
-
-Reach me at <a href="mailto:viswanv.2003@gmail.com" style="color:rgb(171, 107, 255)">**viswan.v2003@gmail.com**</a> regarding Professional and offical matters.
-
+Reach me at <a href="mailto:viswanv.2003@gmail.com" style="color:rgb(171, 107, 255)">**viswan.v2003@gmail.com**</a> regarding Professional and offical matters.<br>
 Reach me at <a href="strawberryshakelite@gmail.com" style="color:rgb(255, 79, 146)">**strawberryshakelite@gmail.com**</a> regarding YouTube / Casual / Creative things.
-
 <!--
 **LiteShake/LiteShake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

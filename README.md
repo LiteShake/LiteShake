@@ -1,10 +1,10 @@
-## Hi there, I'm Viswanathan a.k.a LiteShake
+# Hi there, I'm Viswanathan a.k.a LiteShake
 
-- 🧠 I'm currently working on Deep learning and stuff.
-- 🌱 I'm currently learning almost everything.
-- 👯 I’m looking to collaborate on contests, hackathons and Research on Deep Learning.
-- ✉️ Reach me at viswanv.2003@gmail.com regarding Professional and offical matters.
-- 🎞 Reach me at strawberryshakelite@gmail.com regarding YouTube / Casual / Creative things.
+I like to work on <span style="color:rgb(74, 204, 255)">**Creative**</span> AI solutions that can create Art, Music and much more...
+
+Reach me at <a href="mailto:viswanv.2003@gmail.com" style="color:rgb(171, 107, 255)">**viswan.v2003@gmail.com**</a> regarding Professional and offical matters.
+
+Reach me at <a href="strawberryshakelite@gmail.com" style="color:rgb(255, 79, 146)">**strawberryshakelite@gmail.com**</a> regarding YouTube / Casual / Creative things.
 
 <!--
 **LiteShake/LiteShake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 
-</p>
+<a href="" target="blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github"></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Github"></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Github"></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Github"></a>
 
 <h3>I make web experiences with:</h3>
 
@@ -38,7 +40,6 @@ Here are some ideas to get you started:
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
 
 <h3>I make cool AI stuff with</h3>
 
@@ -68,3 +69,4 @@ Here are some ideas to get you started:
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
+## *✨ c'est la vie ✨*

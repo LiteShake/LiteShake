@@ -1,4 +1,7 @@
 # Hi there, I'm Viswanathan a.k.a LiteShake
+
+<img src="./assets/github top.png" alt="top img">
+
 I like to make <span style="color:rgb(74, 204, 255)">**Creative**</span> AI that can create Art, Music and much more...
 
 Reach me at <a href="mailto:viswanv.2003@gmail.com" style="color:rgb(171, 107, 255)">**viswan.v2003@gmail.com**</a> regarding Professional and offical matters.<br>
@@ -55,8 +58,6 @@ Here are some ideas to get you started:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-
 
 <h3>I have also worked with:</h3>
 

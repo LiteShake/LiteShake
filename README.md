@@ -36,9 +36,12 @@ Here are some ideas to get you started:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009485.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <h3>I make cool AI stuff with</h3>
 
@@ -52,6 +55,7 @@ Here are some ideas to get you started:
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23000000.svg?style=for-the-badge&logo=llamaindex&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-%23FF4B4B.svg?style=for-the-badge&logo=lightning&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-%23ff4b4b.svg?style=for-the-badge&logo=langchain&logoColor=white)
 
 
 <h3>I make 2D/3D experiences with:</h3>
@@ -61,6 +65,7 @@ Here are some ideas to get you started:
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=5586A4)
 
 <h3>I have also worked with:</h3>
 
